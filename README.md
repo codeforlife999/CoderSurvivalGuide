@@ -1,2 +1,2 @@
 # CoderSurvivalGuide
-『西二旗生存指南』
+『西二旗求生指南』
